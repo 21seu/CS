@@ -1,4 +1,4 @@
-package thread;
+package pro01_thread;
 
 /**
  * 多线程的创建，方式1：集成Thread类
