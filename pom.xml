@@ -13,6 +13,7 @@
         <module>02_Collection</module>
         <module>03_JUC</module>
         <module>03_JUC/01_Create</module>
+        <module>03_JUC/02_Threadsafe</module>
     </modules>
 
 
