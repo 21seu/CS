@@ -6,7 +6,7 @@ public class DeathLockMethodTest implements Runnable {
 
     public void init() {
         Thread.currentThread().setName("主线程");
-        //调用a都西昂的foo方法
+        //调用a对象的foo方法
         a.foo(b);
         System.out.println("进入主线程之后");
     }
