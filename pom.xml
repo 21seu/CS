@@ -14,6 +14,7 @@
         <module>03_JUC</module>
         <module>03_JUC/01_Create</module>
         <module>03_JUC/02_Threadsafe</module>
+        <module>03_JUC/03_TongXin</module>
     </modules>
 
 
