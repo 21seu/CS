@@ -8,8 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="02_Threadsafe" />
         <module name="02_Collection" />
-        <module name="01_JavaSE" />
+        <module name="03_TongXin" />
         <module name="01_Create" />
+        <module name="01_JavaSE" />
         <module name="03_JUC" />
       </profile>
     </annotationProcessing>
